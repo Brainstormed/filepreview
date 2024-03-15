@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/home/aritr/Documents/CProjects/filepreview",
-      "program": "/home/aritr/Documents/CProjects/filepreview/build/Debug/outDebug",
+      "program": "/home/aritr/Documents/CProjects/filepreview/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

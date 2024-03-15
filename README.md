@@ -9,12 +9,12 @@ You can either grab a release (only for Linux) or build from source.
 ### Clone the git repo
 
 
-`$ git clone https://github.com/brainstormed/filepreview.git`
+```$ git clone https://github.com/brainstormed/filepreview.git```
 
-`$ cd filepreview`
+```$ cd filepreview```
 
-`$ clang main.c -o filepreview -lm`
+```$ clang main.c -o fpv -lm```
 
-`$ mv filepreview /usr/bin/`
+```$ sudo mv filepreview /usr/bin/```
 
-(My knowledge in both c and Linux is very laughable so please excuse me...)
+(My knowledge in both C and Linux is very laughable so please excuse me...)

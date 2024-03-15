@@ -4,7 +4,7 @@
 int main(int argc, char* argv[])
 {
     if (argc != 2) {
-        printf("Usage: filepreview <filename.ext>\n");
+        printf("Usage: fpv <filename.ext>\n");
         return 1;
     }
 
