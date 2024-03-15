@@ -6,8 +6,6 @@ You can either grab a release (only for Linux) or build from source.
 
 ## Building from source
 
-### Clone the git repo
-
 
 ```$ git clone https://github.com/brainstormed/filepreview.git```
 
